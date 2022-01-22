@@ -1,0 +1,1 @@
+## Average Spectra (y-projection)
