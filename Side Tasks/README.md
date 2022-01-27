@@ -2,7 +2,10 @@
 Here, I present some side tasks related to my current research in analyzing the dataset '146.h5'. These include learning how Trident creates spectra, making slice plots of the data using matplotlib, phase plots with yt, and animations of multiplot figures.
 
 ## Trident Spectra
-#### Average Spectra cell by cell.ipynb
+#### cell by cell.ipynb
+Similar to all other notebooks, I use Trident to create spectra for a number of iterations. However, rather than calculating "average spectra", I take the product of each array of flux. Additionally, instead of projecting the rays in one direction and creating a grid, each ray is one cell length and only moves in the x direction. That way, if I were to piece each ray together, it would create one ray extending in the x-direction. The purpose of this notebook is to understand how Trident creates spectra. 
+
+Each plot shows the spectra of each iteration, a black dashed line representing the resulting spectrum obtained from taking the product of each array of fluxes, and a thick pink line denoting the spectrum calculated from a single ray with size of each cell-length rays pieced together. This is performed on C IV, O I 1302, Si II 1304, and C II 1335, each showing how the spectra obtained from the "cell-by-cell" rays are the same as their 1-ray equivalent.
 
 ## Matplotlib Slice Plots
 I wrote my own slice plot functions in response to limitations in yt's version. Although yt has the option of plotting the density of a specific 
