@@ -1,6 +1,8 @@
 # Overview
-Here, I present some side tasks related to my current research in analyzing the dataset '146.h5'. These include making slice plots of the data using matplotlib, 
-phase plots with yt, and animations of multiplot figures.
+Here, I present some side tasks related to my current research in analyzing the dataset '146.h5'. These include learning how Trident creates spectra, making slice plots of the data using matplotlib, phase plots with yt, and animations of multiplot figures.
+
+## Trident Spectra
+#### Average Spectra cell by cell.ipynb
 
 ## Matplotlib Slice Plots
 I wrote my own slice plot functions in response to limitations in yt's version. Although yt has the option of plotting the density of a specific 
