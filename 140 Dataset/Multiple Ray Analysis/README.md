@@ -1,6 +1,6 @@
 # Overview
 
-I uploaded my most recent notebooks with temperature sliceplots, 2D Histograms, and spectra for five different rays.
+I present notebooks with temperature sliceplots, 2D Histograms, and spectra for seven different rays. Any file with the keyword, '(Reduced)' uses three rays as opposed to seven. Ray 1, Ray 2, and Ray 3 in these notebooks are the equivalent to Ray 1, Ray 3, and Ray 4 in the documents containing seven rays. Ray 1 passes through cool gas almost entirely, while Rays 2 and 3 travel through cool, intermediate, and hot gas. I think it is worth studying how different spectra look in the intermediate temperature gas as opposed to the cool gas.
 
 ## Slice Plots and 2D Hist. for All Gas
 
