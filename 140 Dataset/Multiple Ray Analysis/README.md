@@ -22,4 +22,9 @@ equally in all plots. This is useful for comparing the abundance of each element
 
 ## Comparing Spectra 140 / Comparing Spectra 140 (Reduced)
 
-These notebooks present the simulated spectra of each ray. Each plot has a field of view of 4 &#8491; except for the Ly &alpha;, 
+These notebooks present the simulated spectra of each ray. Each plot has a field of view of 4 &#8491; except for the Ly &alpha;, Fe II 2600, and Mg II 2793 in the long version and Ly &alpha; in the reduced version.
+
+## Instrument vs. Manual / Instrument vs. Manual (Reduced)
+
+These notebooks illustrate a step plot of each absorption line using d&lambda;'s pertaining to real instruments like the Cosmic Origins Spectrograph (COS).
+
