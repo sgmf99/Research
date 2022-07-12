@@ -20,11 +20,32 @@ in one ray to that of a different ray.
 These notebooks feature the 2D rho-temperature histograms weighted by ion mass for each of our ions of interest. The colorbar is scaled 
 equally in all plots. This is useful for comparing the abundance of each element and or ion to that of another element and or ion.
 
+## Slice Plots and 2D Hist. for Single Ions (Scaled Equally)
+
+This notebook shows the Slice Plots and Rho-Temperature histograms for a single ion. These plots are weighted by ion mass ranging form 10<sup>-11</sup> M<sub>&odot;</sub> to 5*10<sup>5</sup> M<sub>&odot;</sub>.
+
 ## Comparing Spectra 140 / Comparing Spectra 140 (Reduced)
 
 These notebooks present the simulated spectra of each ray. Each plot has a field of view of 4 &#8491; except for the Ly &alpha;, Fe II 2600, and Mg II 2793 in the long version and Ly &alpha; in the reduced version.
 
-## Instrument vs. Manual / Instrument vs. Manual (Reduced)
+## Instrument vs. Manual / Instrument vs. Manual (Reduced) / Instrument vs. Manual (Reduced and with Noise)
 
-These notebooks illustrate a step plot of each absorption line using d&lambda;'s pertaining to real instruments like the Cosmic Origins Spectrograph (COS).
+These notebooks illustrate a step plot of each absorption line using d&lambda;'s pertaining to real instruments like the Cosmic Origins Spectrograph (COS) and a plot showing what the spectra looks like theoretically with no noise and a d&lambda; of 0.001.
+The d&lambda;'s (in Angstroms per pixel) corresponding to each instrument are as follows:
 
+- COS-G130M: 0.00997
+
+
+- COS-G160M: 0.01223
+
+
+- COS-G140L: 0.0803
+
+
+- COS-G185M: 0.037
+
+
+- COS-G225M: 0.033
+
+
+- COS-G285M: 0.4
