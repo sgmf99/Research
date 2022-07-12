@@ -49,3 +49,6 @@ The d&lambda;'s (in Angstroms per pixel) corresponding to each instrument are as
 
 
 - COS-G285M: 0.4
+
+
+Source: https://hst-docs.stsci.edu/cosihb/chapter-5-spectroscopy-with-cos/5-1-the-capabilities-of-cos
