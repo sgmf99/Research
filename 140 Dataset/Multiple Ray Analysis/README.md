@@ -52,3 +52,8 @@ The d&lambda;'s (in Angstroms per pixel) corresponding to each instrument are as
 
 
 Source: https://hst-docs.stsci.edu/cosihb/chapter-5-spectroscopy-with-cos/5-1-the-capabilities-of-cos
+
+## Spectra at Specific Temps
+
+In this notebook, I plot some absorption lines due to the cold gas (< 5x10<sup>4</sup> K), intermediate-temperature gas 
+(5x10<sup>4</sup> K < T < 5x10<sup>5</sup> K), and hot gas (> 5x10<sup>5</sup> K) in the given ray.
