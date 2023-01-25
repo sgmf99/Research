@@ -19,7 +19,3 @@ in one ray to that of a different ray.
 
 These notebooks feature the 2D rho-temperature histograms weighted by ion mass for each of our ions of interest. The colorbar is scaled 
 equally in all plots. This is useful for comparing the abundance of each element and or ion to that of another element and or ion.
-
-## Ion Fraction vs. Density
-
-This notebook shows one-dimensional ion fraction histograms weighted by element mass.
